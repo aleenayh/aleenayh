@@ -1,5 +1,5 @@
 ## Meet Aleena 
-I build web apps and games. Primarily React/Typescript/Node but always eager to try new things. Working remote since before it was cool. Consumer of horror media of all varieties and a board game/tabletop roleplay game geek. 
+I build web apps and games. Primarily React/Typescript/Node but always eager to try new things. Working remote since before it was cool. Startup native. Consumer of horror media of all varieties and a board game/tabletop roleplay game geek. 
 
 <!--
 **aleenayh/aleenayh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,7 @@ Character Keeper companion apps for tabletop roleplay games by The Gauntlet. The
 
 ## Some Screenshots of Games
 Built while working at Synthesis. All of these are realtime multiplayer web games, paired with a custom AV system and using Colyseus state sync.
+
 PROXIMA, a space exploration game in written in Pixi. I designed the touchscreen flight controls!
 <img width="1587" height="843" alt="Screenshot 2025-12-11 at 1 37 55 PM" src="https://github.com/user-attachments/assets/1500b672-4a5b-46fb-9bd7-bfe8c1d8bef2" />
 
