@@ -1,4 +1,5 @@
-## Hi there 👋
+## Meet Aleena 
+I build web apps and games. Primarily React/Typescript/Node but always eager to try new things. Working remote since before it was cool. Consumer of horror media of all varieties and a board game/tabletop roleplay game geek. 
 
 <!--
 **aleenayh/aleenayh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
